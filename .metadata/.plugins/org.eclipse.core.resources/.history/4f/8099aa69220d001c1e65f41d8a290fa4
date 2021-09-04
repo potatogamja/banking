@@ -1,0 +1,13 @@
+package banking;
+
+public class Main {
+	
+	private static Account[] accountArray = new Account[100];
+	Scanner scan = new Scanner(System.in);
+	
+
+	public static void main(String[] args) {
+		
+	}
+
+}

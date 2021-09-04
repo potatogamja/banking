@@ -1,0 +1,19 @@
+package banking;
+
+import java.util.Scanner;
+
+public class Main {
+	
+	private static Account[] accountArray = new Account[100];
+	Scanner scan = new Scanner(System.in);
+	
+
+	public static void main(String[] args) {
+		boolean run = true;
+		while(run) {
+			
+		}
+		
+	}
+
+}
